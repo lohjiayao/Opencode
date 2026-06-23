@@ -1,0 +1,23 @@
+{
+    "Default_Line": {
+        "15": 8,
+        "27": 100,
+        "28": 0,
+        "10": 109,
+        "11": 97,
+        "20": 255,
+        "12": 255,
+        "BOX_X": 345,
+        "BOX_Y": 234,
+        "BOX_SCALE": 195,
+        "W_PCT": 94,
+        "H_PCT": 48,
+        "X_PCT": 50,
+        "Y_PCT": 48,
+        "THRESHOLD": 86,
+        "ORIENT": 2,
+        "SIZE": 47,
+        "TEXTURE": 88,
+        "STABLE_FRAMES": 10
+    }
+}
